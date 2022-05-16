@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi here and there 🍅
+---
+
+- Why are you staring at your github home page again?
+- Have you practiced coding today? 
+- You know what, Lingling codes 40 hours a day!
+- Until she developed cervical spondylosis.
+- So, watch [this](https://www.youtube.com/watch?v=u3Ocw5UIpYs) and practice everyday.
 
 <!--
 **XIAOYixuan/XIAOYixuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
