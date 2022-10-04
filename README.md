@@ -1,8 +1,8 @@
 ### Hi here and there 🍅
 ---
 A collection of videos I loved.
-- Stretch your neck. [link](https://www.youtube.com/watch?v=u3Ocw5UIpYs) and practice everyday.
-- Correct way to place your wrist. [link](https://www.youtube.com/watch?v=bDF92KpSpq4)
+- The correct way to exercise the neck. [link](https://youtu.be/GxshNY1Ixac)
+- The correct way to place your wrist. [link](https://www.youtube.com/watch?v=bDF92KpSpq4)
 
 <!--
 **XIAOYixuan/XIAOYixuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
